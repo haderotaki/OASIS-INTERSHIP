@@ -1,0 +1,23 @@
+# Customer Behavior and Sales Forecasting EDA and Automation in Retail
+
+## Description
+This synthetic dataset simulates a bustling retail environment, providing insights into retail sales and customer characteristics. Through Exploratory Data Analysis (EDA), users can uncover complex patterns and gain valuable insights into customer behavior. Additionally, sales forecast automation is integrated to streamline the prediction of future trends.
+
+## Data Source
+The dataset used in this project is sourced from Kaggle, specifically the **Retail Sales Dataset**. It is available through the link provided by **Oasis Infobyte** under the Data Analytics Task section.
+
+- [Kaggle Retail Sales Dataset](https://www.kaggle.com/datasets) 
+
+## Tools Used
+- **Excel**
+- **Python**
+- **Power BI**
+
+## How to Use
+1. Clone the repository.
+2. Run the provided Python scripts for EDA and forecasting automation.
+3. Use Power BI to visualize insights and trends.
+4. Analyze customer behavior patterns and predict future sales trends.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
